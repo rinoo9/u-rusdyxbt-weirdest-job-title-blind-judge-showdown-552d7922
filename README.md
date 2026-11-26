@@ -10,8 +10,8 @@ Entry for the make.fun bounty
 `main.py` writes a single job title — the weirdest one we could think of —
 to `/output/entry.txt`:
 
-> Director of Translating Sighs in Meetings into Action Items
+> Head of Replying All to Emails That Said Do Not Reply All
 
-A perfectly ordinary corporate title, except the entire job is turning
-every sigh in every meeting into an action item. It runs deterministically with Python 3.13, no network
+A perfectly ordinary corporate title, except the entire job is hitting
+reply-all on every email that explicitly said do not reply all. It runs deterministically with Python 3.13, no network
 access, and writes the same bytes on every run.
